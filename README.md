@@ -1,16 +1,21 @@
-## Hi there 👋
+# Smit Shinde
 
-<!--
-**Fizznap/Fizznap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science Engineering student  
+Focused on Backend Development, Data Structures, and Systems
 
-Here are some ideas to get you started:
+## Technical Skills
+- Languages: Java, JavaScript, Python, C
+- Backend: Node.js, Express
+- Databases: MySQL, MongoDB (basic)
+- Tools: Git, GitHub, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Data Structures & Algorithms
+- Backend system fundamentals
+- Writing clean, documented code
+
+## Projects
+- In progress (original work only)
+
+## Contact
+- GitHub: https://github.com/Fizznap
