@@ -3,6 +3,7 @@ Smit Shinde
 B.Tech Computer Science Engineering student
 Primary focus: JavaScript fundamentals → Data Structures & Algorithms
 
+<p align="left"> <a href="https://github.com/Fizznap"> <img src="https://img.shields.io/badge/GitHub-Fizznap-black?style=flat-square&logo=github" /> </a> <a href="https://www.linkedin.com/in/fizznap"> <img src="https://img.shields.io/badge/LinkedIn-Smit%20Shinde-blue?style=flat-square&logo=linkedin" /> </a> </p>
 👋 About Me
 
 I’m Smit Shinde, a Computer Science Engineering undergraduate focused on building a strong foundation before specialization.
