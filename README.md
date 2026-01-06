@@ -16,81 +16,97 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a Computer Science Engineering undergraduate focused on building a strong foundation before specialization. My current priority is **mastering JavaScript from the ground up**—understanding the language deeply rather than treating it as just a tool. 
+I’m a **Computer Science Engineering undergraduate** focused on **building a strong foundation before specialization**.
 
-I have started my **DSA journey**, with the plan to apply data structures and algorithms using JavaScript once the language fundamentals are solid.
+My current priority is **mastering JavaScript from the ground up** — understanding the language deeply rather than treating it as just a tool.
 
-> ⚠️ **Note:** This GitHub profile reflects learning in progress, not inflated expertise. All repositories represent active learning and experiments.
+I have started my **Data Structures & Algorithms journey**, with the plan to apply DSA concepts using **JavaScript** once the language fundamentals are solid.
 
----
-
-### 🧠 Learning Philosophy
-
-I believe in building a mental model of how things work under the hood.
-
-* ✅ **Mastery:** Master one language properly before moving ahead.
-* 🧱 **Foundation:** Fundamentals > Frameworks.
-* 💡 **Understanding:** Clarity over clever hacks.
-* 📈 **Growth:** Consistent progress beats fast progress.
+> ⚠️ **Note:** This GitHub profile reflects **learning in progress**, not inflated expertise.  
+> All repositories represent **active learning and experimentation**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 Learning Philosophy
 
-**Primary Focus**
+I believe in building a **mental model of how things work under the hood**.
+
+- ✅ **Mastery:** Master one language properly before moving ahead  
+- 🧱 **Foundation:** Fundamentals > Frameworks  
+- 💡 **Understanding:** Clarity over clever hacks  
+- 📈 **Growth:** Consistent progress beats fast progress  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Primary Focus
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**Languages (Familiarity)**
+### 🔹 Languages (Familiarity)
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-**Conceptual Exposure**
+### 🔹 Conceptual Exposure
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <br>
-  <em>REST APIs & Request-Response Flow</em>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+</p>
+<p>
+  <em>REST APIs & Request–Response Flow</em>
 </p>
 
-**Tools & Environment**
+### 🔹 Tools & Environment
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 🎯 Current Roadmap
+## 🎯 Current Roadmap
 
-I am currently treating my learning path as a structured project.
+I treat my learning path as a **structured project**.
 
 ```text
 Phase 1: JavaScript (Deep Dive) 🟡 In Progress
-├── 📦 Variables, scope, and execution context
-├── 🔗 Functions & closures
-├── 🧶 Arrays, objects, and methods
-├── ⏳ Asynchronous JS (callbacks, promises, async/await)
-└── 🧹 Writing clean and readable JS code
+├── Variables, scope, and execution context
+├── Functions & closures
+├── Arrays, objects, and methods
+├── Asynchronous JavaScript
+│   ├── Callbacks
+│   ├── Promises
+│   └── async / await
+└── Writing clean and readable JavaScript
 
 Phase 2: Data Structures & Algorithms 🟢 Started
-├── 🔠 Arrays & Strings (JS-based)
-├── 🔄 Recursion fundamentals
-├── ⏱️ Time & space complexity basics
-└── 🧩 Problem-solving patterns
+├── Arrays & Strings (JS-based)
+├── Recursion fundamentals
+├── Time & space complexity basics
+└── Problem-solving patterns ```
 
 ---
 
 📂 Projects & Practice
-JavaScript Concepts: Concept-based programs and deep dives.
 
-DSA Implementations: Practice problems solved using JavaScript.
+JavaScript Concepts: Concept-based programs and deep dives
 
-Experiments: Learning-focused notes and trial code.
+DSA Implementations: Practice problems solved using JavaScript
+
+Experiments: Learning-focused notes and trial code
+
+---
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fizznap&show_icons=true&theme=radical&hide_border=true" /> </p>
+
+
+---
