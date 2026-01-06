@@ -82,29 +82,34 @@ Experiments: Learning-focused notes and trial code
 
 ---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fizznap&show_icons=true&theme=radical&hide_border=true" /> </p>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Fizznap&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Smit Shinde GitHub Stats"
+  />
+</p>
 
 ---
 
 ## 🎯 Current Roadmap
 
-I treat my learning path as a **structured project**.
+I treat my learning path as a **structured project**, focusing on fundamentals before scaling.
 
+### 🟡 Phase 1: JavaScript (Deep Dive)
+- Variables, scope, and execution context  
+- Functions and closures  
+- Arrays, objects, and built-in methods  
+- Asynchronous JavaScript  
+  - Callbacks  
+  - Promises  
+  - `async / await`  
+- Writing clean and readable JavaScript  
 
-```Phase 1: JavaScript (Deep Dive) 🟡 In Progress
-├── Variables, scope, and execution context
-├── Functions & closures
-├── Arrays, objects, and methods
-├── Asynchronous JavaScript
-│   ├── Callbacks
-│   ├── Promises
-│   └── async / await
-└── Writing clean and readable JavaScript
+### 🟢 Phase 2: Data Structures & Algorithms (Started)
+- Arrays and Strings (JavaScript-based)  
+- Recursion fundamentals  
+- Time and space complexity basics  
+- Common problem-solving patterns  
 
-Phase 2: Data Structures & Algorithms 🟢 Started
-├── Arrays & Strings (JS-based)
-├── Recursion fundamentals
-├── Time & space complexity basics
-└── Problem-solving patterns
