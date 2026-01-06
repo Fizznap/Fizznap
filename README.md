@@ -72,7 +72,7 @@ I believe in building a mental model of how things work under the hood.
 
 I am currently treating my learning path as a structured project.
 
-```text
+
 Phase 1: JavaScript (Deep Dive) 🟡 In Progress
 ├── 📦 Variables, scope, and execution context
 ├── 🔗 Functions & closures
@@ -102,7 +102,7 @@ Phase 2: Data Structures & Algorithms 🟢 Started
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFizznap%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="Fizznap's Stats" />
 </p>
 
-```
+
 
 -----
 
