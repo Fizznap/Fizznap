@@ -72,29 +72,6 @@ I believe in building a **mental model of how things work under the hood**.
 
 ---
 
-## 🎯 Current Roadmap
-
-I treat my learning path as a **structured project**.
-
-```text
-Phase 1: JavaScript (Deep Dive) 🟡 In Progress
-├── Variables, scope, and execution context
-├── Functions & closures
-├── Arrays, objects, and methods
-├── Asynchronous JavaScript
-│   ├── Callbacks
-│   ├── Promises
-│   └── async / await
-└── Writing clean and readable JavaScript
-
-Phase 2: Data Structures & Algorithms 🟢 Started
-├── Arrays & Strings (JS-based)
-├── Recursion fundamentals
-├── Time & space complexity basics
-└── Problem-solving patterns ```
-
----
-
 📂 Projects & Practice
 
 JavaScript Concepts: Concept-based programs and deep dives
@@ -110,3 +87,24 @@ Experiments: Learning-focused notes and trial code
 
 
 ---
+
+## 🎯 Current Roadmap
+
+I treat my learning path as a **structured project**.
+
+
+```Phase 1: JavaScript (Deep Dive) 🟡 In Progress
+├── Variables, scope, and execution context
+├── Functions & closures
+├── Arrays, objects, and methods
+├── Asynchronous JavaScript
+│   ├── Callbacks
+│   ├── Promises
+│   └── async / await
+└── Writing clean and readable JavaScript
+
+Phase 2: Data Structures & Algorithms 🟢 Started
+├── Arrays & Strings (JS-based)
+├── Recursion fundamentals
+├── Time & space complexity basics
+└── Problem-solving patterns
