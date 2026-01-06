@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Smit Shinde 👋</h1>
 <h3 align="center">B.Tech Computer Science Engineering Student</h3>
 
@@ -56,7 +55,8 @@ I believe in building a mental model of how things work under the hood.
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <span style="margin: 0 10px;">REST APIs & Request-Response Flow</span>
+  <br>
+  <em>REST APIs & Request-Response Flow</em>
 </p>
 
 **Tools & Environment**
@@ -72,7 +72,7 @@ I believe in building a mental model of how things work under the hood.
 
 I am currently treating my learning path as a structured project.
 
-
+```text
 Phase 1: JavaScript (Deep Dive) 🟡 In Progress
 ├── 📦 Variables, scope, and execution context
 ├── 🔗 Functions & closures
@@ -86,87 +86,16 @@ Phase 2: Data Structures & Algorithms 🟢 Started
 ├── ⏱️ Time & space complexity basics
 └── 🧩 Problem-solving patterns
 
+📂 Projects & Practice
 
+JavaScript Concepts: Concept-based programs and deep dives.
 
----
+DSA Implementations: Practice problems solved using JavaScript.
 
-### 📂 Projects & Practice
-
-* **JavaScript Concepts:** Concept-based programs and deep dives.
-* **DSA Implementations:** Practice problems solved using JavaScript.
-* **Experiments:** Learning-focused notes and trial code.
-
----
+Experiments: Learning-focused notes and trial code.
 
 <p align="center">
+
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFizznap%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="Fizznap's Stats" />
+
 </p>
-
-
-
------
-
-### Preview: What it will look like
-
-# Hi there, I'm Smit Shinde 👋
-
-### B.Tech Computer Science Engineering Student
-
-*Primary focus: JavaScript fundamentals → Data Structures & Algorithms*
-
-[LinkedIn Button] [GitHub Button]
-
------
-
-### 👨‍💻 About Me
-
-I’m a Computer Science Engineering undergraduate focused on building a strong foundation before specialization. My current priority is **mastering JavaScript from the ground up**—understanding the language deeply rather than treating it as just a tool.
-
-I have started my **DSA journey**, with the plan to apply data structures and algorithms using JavaScript once the language fundamentals are solid.
-
-> ⚠️ **Note:** This GitHub profile reflects learning in progress, not inflated expertise. All repositories represent active learning and experiments.
-
------
-
-### 🧠 Learning Philosophy
-
-I believe in building a mental model of how things work under the hood.
-
-  * ✅ **Mastery:** Master one language properly before moving ahead.
-  * 🧱 **Foundation:** Fundamentals \> Frameworks.
-  * 💡 **Understanding:** Clarity over clever hacks.
-  * 📈 **Growth:** Consistent progress beats fast progress.
-
------
-
-### 🛠️ Tech Stack
-
-**Primary Focus**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Languages (Familiarity)**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
------
-
-### 🎯 Current Roadmap
-
-I am currently treating my learning path as a structured project.
-
-
-Phase 1: JavaScript (Deep Dive) 🟡 In Progress
-├── 📦 Variables, scope, and execution context
-├── 🔗 Functions & closures
-├── 🧶 Arrays, objects, and methods
-├── ⏳ Asynchronous JS (callbacks, promises, async/await)
-└── 🧹 Writing clean and readable JS code
-
-Phase 2: Data Structures & Algorithms 🟢 Started
-├── 🔠 Arrays & Strings (JS-based)
-├── 🔄 Recursion fundamentals
-├── ⏱️ Time & space complexity basics
-└── 🧩 Problem-solving patterns
-
