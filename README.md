@@ -1,5 +1,4 @@
 
-```markdown
 <h1 align="center">Hi there, I'm Smit Shinde 👋</h1>
 <h3 align="center">B.Tech Computer Science Engineering Student</h3>
 
@@ -87,7 +86,7 @@ Phase 2: Data Structures & Algorithms 🟢 Started
 ├── ⏱️ Time & space complexity basics
 └── 🧩 Problem-solving patterns
 
-```
+
 
 ---
 
@@ -157,7 +156,7 @@ I believe in building a mental model of how things work under the hood.
 
 I am currently treating my learning path as a structured project.
 
-```text
+
 Phase 1: JavaScript (Deep Dive) 🟡 In Progress
 ├── 📦 Variables, scope, and execution context
 ├── 🔗 Functions & closures
@@ -171,4 +170,3 @@ Phase 2: Data Structures & Algorithms 🟢 Started
 ├── ⏱️ Time & space complexity basics
 └── 🧩 Problem-solving patterns
 
-```
