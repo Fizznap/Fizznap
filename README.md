@@ -1,55 +1,83 @@
-# Hey there 👋
+Smit Shinde
 
-I'm **Smit Shinde**, a B.Tech Computer Science Engineering student with a strong interest in backend development, data structures, and system fundamentals.
+B.Tech Computer Science Engineering student
+Primary focus: JavaScript fundamentals → Data Structures & Algorithms
 
-I focus on understanding how things work under the hood and building clean, reliable software. Most of my work is original and built step by step as part of my learning process.
+👋 About Me
 
-This profile is a place where I share projects, experiments, and concepts I’m currently learning — no copy-paste tutorials, only hands-on practice.
+I’m Smit Shinde, a Computer Science Engineering undergraduate focused on building a strong foundation before specialization.
 
----
+My current priority is mastering JavaScript from the ground up—understanding the language deeply rather than treating it as just a tool. Alongside this, I have started my DSA journey today, with the plan to apply data structures and algorithms using JavaScript once the language fundamentals are solid.
 
-## 🔧 Tools & Technologies
+I have used backend-related tools during AI-assisted website building, which helped me understand application flow, but my learning path is now structured and fundamentals-first.
 
-**Languages**
-- Java  
-- JavaScript  
-- Python  
-- C  
+This GitHub profile reflects learning in progress, not inflated expertise.
 
-**Backend**
-- Node.js  
-- Express.js  
+🧠 Learning Philosophy
 
-**Databases**
-- MySQL  
-- MongoDB (basic)
+Master one language properly before moving ahead
 
-**Tools & Environment**
-- Git & GitHub  
-- Linux  
+Fundamentals > frameworks
 
----
+Clarity over clever hacks
 
-## 🎯 Current Focus
+Consistent progress beats fast progress
 
-- Data Structures & Algorithms  
-- Backend system fundamentals  
-- Writing clean, readable, and well-documented code  
-- Improving problem-solving skills  
+🛠️ Tech Stack (Current & Learning)
+Primary Language
 
----
+JavaScript (in-depth focus)
 
-## 🚀 Projects
+Other Languages (basic familiarity)
 
-- In progress  
-- All projects are original and built for learning and improvement  
+Java
 
----
+Python
 
-## 📫 Contact
+C
 
-- GitHub: https://github.com/Fizznap
+Conceptual Exposure
 
----
+Backend request–response flow
 
-⭐ Always learning. Always improving.
+REST APIs (basic understanding)
+
+Node.js & Express (used during AI-assisted builds)
+
+Tools & Environment
+
+Git & GitHub
+
+Linux
+
+VS Code
+
+🎯 Current Roadmap
+Phase 1: JavaScript (Deep Dive)
+├── Variables, scope, and execution context
+├── Functions & closures
+├── Arrays, objects, and methods
+├── Asynchronous JS (callbacks, promises, async/await)
+└── Writing clean and readable JS code
+
+Phase 2: Data Structures & Algorithms (Started)
+├── Arrays & Strings (JS-based)
+├── Recursion fundamentals
+├── Time & space complexity basics
+└── Problem-solving patterns
+
+📂 Projects & Practice
+
+JavaScript concept-based programs
+
+DSA practice implementations using JavaScript
+
+Learning-focused experiments and notes
+
+All repositories represent active learning, not finished products.
+
+📫 Connect With Me
+
+GitHub: https://github.com/Fizznap
+
+LinkedIn: https://www.linkedin.com/in/fizznap
