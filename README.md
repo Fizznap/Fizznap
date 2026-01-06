@@ -1,6 +1,4 @@
 
----
-
 # 👋 Smit Shinde
 
 🎓 B.Tech Computer Science Engineering student
@@ -92,6 +90,4 @@ All repositories represent active learning, not finished products.
 
 * GitHub: [https://github.com/Fizznap](https://github.com/Fizznap)
 * LinkedIn: [https://www.linkedin.com/in/fizznap](https://www.linkedin.com/in/fizznap)
-
----
 
