@@ -85,3 +85,12 @@ Phase 2: Data Structures & Algorithms 🟢 Started
 ├── 🔄 Recursion fundamentals
 ├── ⏱️ Time & space complexity basics
 └── 🧩 Problem-solving patterns
+
+---
+
+📂 Projects & Practice
+JavaScript Concepts: Concept-based programs and deep dives.
+
+DSA Implementations: Practice problems solved using JavaScript.
+
+Experiments: Learning-focused notes and trial code.
