@@ -72,7 +72,7 @@ I believe in building a mental model of how things work under the hood.
 
 I am currently treating my learning path as a structured project.
 
-```text
+
 Phase 1: JavaScript (Deep Dive) 🟡 In Progress
 ├── 📦 Variables, scope, and execution context
 ├── 🔗 Functions & closures
