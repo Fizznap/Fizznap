@@ -1,84 +1,174 @@
-Smit Shinde
 
-B.Tech Computer Science Engineering student
-Primary focus: JavaScript fundamentals → Data Structures & Algorithms
+```markdown
+<h1 align="center">Hi there, I'm Smit Shinde 👋</h1>
+<h3 align="center">B.Tech Computer Science Engineering Student</h3>
 
-<p align="left"> <a href="https://github.com/Fizznap"> <img src="https://img.shields.io/badge/GitHub-Fizznap-black?style=flat-square&logo=github" /> </a> <a href="https://www.linkedin.com/in/fizznap"> <img src="https://img.shields.io/badge/LinkedIn-Smit%20Shinde-blue?style=flat-square&logo=linkedin" /> </a> </p>
-👋 About Me
+<p align="center">
+  <em>Primary focus: JavaScript fundamentals → Data Structures & Algorithms</em>
+</p>
 
-I’m Smit Shinde, a Computer Science Engineering undergraduate focused on building a strong foundation before specialization.
+<p align="center">
+  <a href="https://www.linkedin.com/in/fizznap">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Fizznap">
+    <img src="https://img.shields.io/badge/GitHub-Fizznap-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-My current priority is mastering JavaScript from the ground up—understanding the language deeply rather than treating it as just a tool. Alongside this, I have started my DSA journey today, with the plan to apply data structures and algorithms using JavaScript once the language fundamentals are solid.
+---
 
-I have used backend-related tools during AI-assisted website building, which helped me understand application flow, but my learning path is now structured and fundamentals-first.
+### 👨‍💻 About Me
 
-This GitHub profile reflects learning in progress, not inflated expertise.
+I’m a Computer Science Engineering undergraduate focused on building a strong foundation before specialization. My current priority is **mastering JavaScript from the ground up**—understanding the language deeply rather than treating it as just a tool. 
 
-🧠 Learning Philosophy
+I have started my **DSA journey**, with the plan to apply data structures and algorithms using JavaScript once the language fundamentals are solid.
 
-Master one language properly before moving ahead
+> ⚠️ **Note:** This GitHub profile reflects learning in progress, not inflated expertise. All repositories represent active learning and experiments.
 
-Fundamentals > frameworks
+---
 
-Clarity over clever hacks
+### 🧠 Learning Philosophy
 
-Consistent progress beats fast progress
+I believe in building a mental model of how things work under the hood.
 
-🛠️ Tech Stack (Current & Learning)
-Primary Language
+* ✅ **Mastery:** Master one language properly before moving ahead.
+* 🧱 **Foundation:** Fundamentals > Frameworks.
+* 💡 **Understanding:** Clarity over clever hacks.
+* 📈 **Growth:** Consistent progress beats fast progress.
 
-JavaScript (in-depth focus)
+---
 
-Other Languages (basic familiarity)
+### 🛠️ Tech Stack
 
-Java
+**Primary Focus**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-Python
+**Languages (Familiarity)**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
 
-C
+**Conceptual Exposure**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <span style="margin: 0 10px;">REST APIs & Request-Response Flow</span>
+</p>
 
-Conceptual Exposure
+**Tools & Environment**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-Backend request–response flow
+---
 
-REST APIs (basic understanding)
+### 🎯 Current Roadmap
 
-Node.js & Express (used during AI-assisted builds)
+I am currently treating my learning path as a structured project.
 
-Tools & Environment
+```text
+Phase 1: JavaScript (Deep Dive) 🟡 In Progress
+├── 📦 Variables, scope, and execution context
+├── 🔗 Functions & closures
+├── 🧶 Arrays, objects, and methods
+├── ⏳ Asynchronous JS (callbacks, promises, async/await)
+└── 🧹 Writing clean and readable JS code
 
-Git & GitHub
+Phase 2: Data Structures & Algorithms 🟢 Started
+├── 🔠 Arrays & Strings (JS-based)
+├── 🔄 Recursion fundamentals
+├── ⏱️ Time & space complexity basics
+└── 🧩 Problem-solving patterns
 
-Linux
+```
 
-VS Code
+---
 
-🎯 Current Roadmap
-Phase 1: JavaScript (Deep Dive)
-├── Variables, scope, and execution context
-├── Functions & closures
-├── Arrays, objects, and methods
-├── Asynchronous JS (callbacks, promises, async/await)
-└── Writing clean and readable JS code
+### 📂 Projects & Practice
 
-Phase 2: Data Structures & Algorithms (Started)
-├── Arrays & Strings (JS-based)
-├── Recursion fundamentals
-├── Time & space complexity basics
-└── Problem-solving patterns
+* **JavaScript Concepts:** Concept-based programs and deep dives.
+* **DSA Implementations:** Practice problems solved using JavaScript.
+* **Experiments:** Learning-focused notes and trial code.
 
-📂 Projects & Practice
+---
 
-JavaScript concept-based programs
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFizznap%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="Fizznap's Stats" />
+</p>
 
-DSA practice implementations using JavaScript
+```
 
-Learning-focused experiments and notes
+-----
 
-All repositories represent active learning, not finished products.
+### Preview: What it will look like
 
-📫 Connect With Me
+# Hi there, I'm Smit Shinde 👋
 
-GitHub: https://github.com/Fizznap
+### B.Tech Computer Science Engineering Student
 
-LinkedIn: https://www.linkedin.com/in/fizznap
+*Primary focus: JavaScript fundamentals → Data Structures & Algorithms*
+
+[LinkedIn Button] [GitHub Button]
+
+-----
+
+### 👨‍💻 About Me
+
+I’m a Computer Science Engineering undergraduate focused on building a strong foundation before specialization. My current priority is **mastering JavaScript from the ground up**—understanding the language deeply rather than treating it as just a tool.
+
+I have started my **DSA journey**, with the plan to apply data structures and algorithms using JavaScript once the language fundamentals are solid.
+
+> ⚠️ **Note:** This GitHub profile reflects learning in progress, not inflated expertise. All repositories represent active learning and experiments.
+
+-----
+
+### 🧠 Learning Philosophy
+
+I believe in building a mental model of how things work under the hood.
+
+  * ✅ **Mastery:** Master one language properly before moving ahead.
+  * 🧱 **Foundation:** Fundamentals \> Frameworks.
+  * 💡 **Understanding:** Clarity over clever hacks.
+  * 📈 **Growth:** Consistent progress beats fast progress.
+
+-----
+
+### 🛠️ Tech Stack
+
+**Primary Focus**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Languages (Familiarity)**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Tools & Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+-----
+
+### 🎯 Current Roadmap
+
+I am currently treating my learning path as a structured project.
+
+```text
+Phase 1: JavaScript (Deep Dive) 🟡 In Progress
+├── 📦 Variables, scope, and execution context
+├── 🔗 Functions & closures
+├── 🧶 Arrays, objects, and methods
+├── ⏳ Asynchronous JS (callbacks, promises, async/await)
+└── 🧹 Writing clean and readable JS code
+
+Phase 2: Data Structures & Algorithms 🟢 Started
+├── 🔠 Arrays & Strings (JS-based)
+├── 🔄 Recursion fundamentals
+├── ⏱️ Time & space complexity basics
+└── 🧩 Problem-solving patterns
+
+```
